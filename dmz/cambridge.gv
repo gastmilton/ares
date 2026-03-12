@@ -1,0 +1,21 @@
+digraph "Cambridge.1" {
+node [shape=box];
+
+"Tell me about Innovate Cambridge." -> {
+"Innovate Cambridge: The 10-Year Vision";
+"Innovate Cambridge is a major strategic initiative launched to cement Greater Cambridge as the world's leading science and technology ecosystem. Rather than being a single company, it is a massive collective effort involving over 200 organizations—including the University of Cambridge, AstraZeneca, Microsoft, and local government—all working toward a unified 'innovation blueprint' for the region.";
+"The 'Double Vision' Strategy";
+"As of 2026, the initiative is focused on a bold 'double vision' goal for 2035. They aim to:";
+"Double the number of unicorns (startups valued at over $1 billion) born in the city.";
+"Double the venture capital investment flowing into local startups.";
+"Create twice as many science and innovation companies as the current rate.";
+"Key Pillars of the Initiative";
+"Innovate Cambridge operates across several core workstreams to ensure that academic brilliance translates into real-world impact:";
+"Global Narrative: Launching the 'Cambridge Innovation Story' to attract international talent and investment.";
+"Physical Infrastructure: Establishing a 'Central Innovation Hub' to encourage 'engineered serendipity' among researchers and entrepreneurs.";
+"National Partnerships: Creating the first 'Cambridge-Manchester innovation partnership' to share strengths across the UK.";
+"The Cambridge Pledge: Encouraging local wealth-creators to reinvest in the local community to tackle inequality and infrastructure issues.";
+"Why It Matters";
+"Cambridge is already the most intensive science and technology cluster in the world. However, Innovate Cambridge was founded on the belief that 'standing still is not an option.' By 2026, the focus has sharpened on 'Deep Tech' and 'Quantum Computing', ensuring the 'Cambridge Phenomenon' continues to solve global challenges while providing inclusive growth for all local residents.";
+}
+}
